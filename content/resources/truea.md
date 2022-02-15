@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This is a special file for Lec #5.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-540-principles-of-the-global-positioning-system-spring-2012/d3f28a890aea301605f8e8b18f7309f6_truea.m
+file: /media/courses/12-540-principles-of-the-global-positioning-system-spring-2012/d3f28a890aea301605f8e8b18f7309f6_truea.m
 file_type: text/x-objcsrc
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: truea.m
 uid: d3f28a89-0aea-3016-05f8-e8b18f7309f6

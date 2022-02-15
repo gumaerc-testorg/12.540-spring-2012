@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This is a special file for Lec #22.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-540-principles-of-the-global-positioning-system-spring-2012/594b0826c0ac7adffe340fe0edcc0be5_track.NEU.rovr.LC
+file: /media/courses/12-540-principles-of-the-global-positioning-system-spring-2012/594b0826c0ac7adffe340fe0edcc0be5_track.NEU.rovr.LC
 file_type: application/octet-stream
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: track.NEU.rovr.LC
 uid: 594b0826-c0ac-7adf-fe34-0fe0edcc0be5
