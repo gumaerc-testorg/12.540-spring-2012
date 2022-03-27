@@ -134,7 +134,7 @@ Pseudorange measurements ([PDF]({{< baseurl >}}/resources/mit12_540s12_lec8))
 {{< tdopen >}}
 Pseudorange and phase measurements. The data file displayed in class is etab.plt.dat ([DAT]({{< baseurl >}}/resources/etab-plt))  
 [TEQC—The Toolkit for GPS/GLONASS/Galileo/SBAS Data](http://www.unavco.org/facility/software/teqc/teqc.html)  
-RINEX: The Receiver Independent Exchange Format Version 2 ([TXT](./resolveuid/7011abfcc38880524b44d32e07d31bc8))
+RINEX: The Receiver Independent Exchange Format Version 2 ([TXT]({{< baseurl >}}/resources/rinex2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -353,12 +353,12 @@ Kinematic GPS processing and results from experiment earlier in semester
 Results from MIT survey  
 track\_LC.out ([TXT]({{< baseurl >}}/resources/track_lc))  
 track.NEU.rovr.LC ([TXT]({{< baseurl >}}/resources/track-neu-rovr))  
-track.NEU.rovr.L1+L2 ([TXT](./resolveuid/adb820ca15496d7ae116d84a824ae963))  
+track.NEU.rovr.L1+L2 ([TXT]({{< baseurl >}}/resources/track-neu-rovr-1))  
 
 **Results from the 2010 MIT survey**
 
-TR02.sum ([TXT]({{< baseurl >}}/resources/tr02)) TR02.out ([TXT]({{< baseurl >}}/resources/tr02-1)) TR02.NEU.rovr.L1+L2 ([TXT](./resolveuid/c1d2a222013826d2b468d6da55c971aa)) TR02.NEU.rovr.LC ([TXT]({{< baseurl >}}/resources/tr02-neu-rovr))  
-TR0p.sum ([TXT]({{< baseurl >}}/resources/tr0p)) TR0p.NEU.rovr.P1+P2 ([TXT](./resolveuid/f7c410edbea672c589d1296fb63a0d02))
+TR02.sum ([TXT]({{< baseurl >}}/resources/tr02)) TR02.out ([TXT]({{< baseurl >}}/resources/tr02-1)) TR02.NEU.rovr.L1+L2 ([TXT]({{< baseurl >}}/resources/tr02-neu-rovr-1)) TR02.NEU.rovr.LC ([TXT]({{< baseurl >}}/resources/tr02-neu-rovr))  
+TR0p.sum ([TXT]({{< baseurl >}}/resources/tr0p)) TR0p.NEU.rovr.P1+P2 ([TXT]({{< baseurl >}}/resources/tr0p-neu-rovr))
 {{< tdclose >}}
 
 {{< trclose >}}

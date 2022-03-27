@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7db57be8-2ce7-e0cd-b529-3f5578c683b0
 resourcetype: Other
 title: FlickerNoise.m
 uid: 85d40911-dfd2-41ee-6144-009f5aa4e26b

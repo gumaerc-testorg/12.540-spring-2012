@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: This is a special file for assignment 1.
-file: /media/courses/12-540-principles-of-the-global-positioning-system-spring-2012/9581e77ac522d34c2f66d9b5d3fec7fe_mit00900.10n
-file_type: application/octet-stream
+file: /media/courses/12-540-principles-of-the-global-positioning-system-spring-2012/102743cfd6f15a1d208bb4a924f7c134_rinex2.txt
+file_type: text/plain
 learning_resource_types:
 - Assignments
 ocw_type: OCWFile
@@ -10,6 +10,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 5f3f82a0-e181-6a0c-1e91-ad333b1a1edc
 resourcetype: Other
-title: mit00900.10n
-uid: 9581e77a-c522-d34c-2f66-d9b5d3fec7fe
+title: rinex2.txt
+uid: 102743cf-d6f1-5a1d-208b-b4a924f7c134
 ---

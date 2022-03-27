@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5f3f82a0-e181-6a0c-1e91-ad333b1a1edc
 resourcetype: Document
 title: MIT12_540S12_HW02_soln.pdf
 uid: 42a17137-32a2-be7a-c287-b170232beeda

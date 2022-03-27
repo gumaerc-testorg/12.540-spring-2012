@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5f3f82a0-e181-6a0c-1e91-ad333b1a1edc
 resourcetype: Other
 title: mitb076s.12o
 uid: 68226251-bf76-2bfc-8fa3-db48d9ded580

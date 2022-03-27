@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5f3f82a0-e181-6a0c-1e91-ad333b1a1edc
 resourcetype: Other
 title: ReadNav.m
 uid: 4d4cdda0-bdd2-6b79-e0b6-41bd99545dbb

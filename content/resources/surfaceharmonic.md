@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7db57be8-2ce7-e0cd-b529-3f5578c683b0
 resourcetype: Other
 title: SurfaceHarmonic.m
 uid: 10befe56-ad0b-681a-de40-ddd8a2fed793
