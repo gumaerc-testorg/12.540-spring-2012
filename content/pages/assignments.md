@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 5f3f82a0-e181-6a0c-1e91-ad333b1a1edc
 ---
@@ -25,39 +26,39 @@ SUPPORTING FILES AND NOTES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/mit12_540s12_hw01))
+Assignment 1 ({{< resource_link 90105d2c-3bb5-fbd0-20a4-7ef4d768a6c9 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Solution 1 ([PDF]({{< baseurl >}}/resources/mit12_540s12_hw01_soln))
+Solution 1 ({{< resource_link 739f28f1-196e-d9f7-6c7a-e4e63068b711 "PDF" >}})
 
-HW01\_2012.m ([M]({{< baseurl >}}/resources/hw01_2012))
+HW01\_2012.m ({{< resource_link 1d8560c4-4e4c-d2fa-da48-0a761e743ee7 "M" >}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-The broadcast ephemeris file to use is mit0090s.10n ([TXT]({{< baseurl >}}/resources/mit0090s)) (containing the 10 satellites visible at MIT at 15:15 GPST) and the full set of satellites mit00900.10n ([TXT]({{< baseurl >}}/resources/mit00900)). The GPS interface control document icd200cw1234.pdf (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://geoweb.mit.edu/~tah/icd200c123.pdf)) will be useful for this homework. The sub-section of ICD2000 that discusses the broadcast ephemeris is icd200cw1234.Nav.pdf (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.Nav.pdf))
+The broadcast ephemeris file to use is mit0090s.10n ({{< resource_link bf8163f9-7746-bb38-4cbe-0981bd286734 "TXT" >}}) (containing the 10 satellites visible at MIT at 15:15 GPST) and the full set of satellites mit00900.10n ({{< resource_link 9581e77a-c522-d34c-2f66-d9b5d3fec7fe "TXT" >}}). The GPS interface control document icd200cw1234.pdf (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://geoweb.mit.edu/~tah/icd200c123.pdf)) will be useful for this homework. The sub-section of ICD2000 that discusses the broadcast ephemeris is icd200cw1234.Nav.pdf (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.Nav.pdf))
 
 Rinex Definition  
-ftp://igscb.jpl.nasa.gov/pub/data/format/rinex2.txt ([TXT]({{< baseurl >}}/resources/rinex2-1))
+ftp://igscb.jpl.nasa.gov/pub/data/format/rinex2.txt ([TXT](./resolveuid/102743cfd6f15a1d208bb4a924f7c134))
 
-M-file to read Broadcast file ReadNav.m ([M]({{< baseurl >}}/resources/readnav))
+M-file to read Broadcast file ReadNav.m ({{< resource_link 4d4cdda0-bdd2-6b79-e0b6-41bd99545dbb "M" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 2 ([PDF]({{< baseurl >}}/resources/mit12_540s12_hw02))
+Assignment 2 ({{< resource_link 1ba402f7-f301-b517-9a6b-9bbb274d0a12 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Solution 2 ([PDF]({{< baseurl >}}/resources/mit12_540s12_hw02_soln))
+Solution 2 ({{< resource_link 42a17137-32a2-be7a-c287-b170232beeda "PDF" >}})
 
-HW02\_2012.m ([M]({{< baseurl >}}/resources/hw02_2012))
+HW02\_2012.m ({{< resource_link 769fe762-e080-e773-2d2c-fc6a93a1d753 "M" >}})
 
 
 {{< tdclose >}}
@@ -68,7 +69,7 @@ Homework covers estimation methods using simple linear regression and GPS-like c
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 3 ([PDF]({{< baseurl >}}/resources/mit12_540s12_hw03))
+Assignment 3 ({{< resource_link 3f23d666-0dd8-4e6d-272f-6584534b4b23 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -76,9 +77,9 @@ Assignment 3 ([PDF]({{< baseurl >}}/resources/mit12_540s12_hw03))
 {{< tdopen >}}
 
 
-Data mitb076s.12o ([TXT]({{< baseurl >}}/resources/mitb0760-1)) mitb0760.12n ([TXT]({{< baseurl >}}/resources/mitb0760))
+Data mitb076s.12o ({{< resource_link 03053993-09dd-0677-d4d4-8d9a7b41314e "TXT" >}}) mitb0760.12n ({{< resource_link a9efd425-7684-ff51-66ba-aacaf251a53d "TXT" >}})
 
-mitb0760.12o ([TXT]({{< baseurl >}}/resources/mitb0760-1)) rovr0760.12o ([TXT]({{< baseurl >}}/resources/rovr0760)) (optional files)
+mitb0760.12o ({{< resource_link 03053993-09dd-0677-d4d4-8d9a7b41314e "TXT" >}}) rovr0760.12o ({{< resource_link 831cc114-4f53-d79d-1e23-a34809253421 "TXT" >}}) (optional files)
 
 
 {{< tdclose >}}
