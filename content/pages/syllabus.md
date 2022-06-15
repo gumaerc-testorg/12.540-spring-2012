@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This syllabus section provides an outline of basic topics to be covered,
+  course meeting times, the list of text books, links to related websites, and class
+  requirements.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 58eafd03-eca6-6e62-5bf8-c82f714c0867
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
