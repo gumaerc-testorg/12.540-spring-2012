@@ -5,6 +5,7 @@ file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/4d
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a special file for assignments 1.
-

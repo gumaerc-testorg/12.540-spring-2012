@@ -5,6 +5,7 @@ file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/ad
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: track.NEU.rovr.txt
 uid: adb820ca-1549-6d7a-e116-d84a824ae963
 ---
 This is a special file for Lec #22.
-

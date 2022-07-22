@@ -5,6 +5,7 @@ file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/e7
 file_type: application/x-xfig
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
