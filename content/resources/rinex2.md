@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: 'This is a special file for Lec #8.'
-file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/823d0630d8a32aad008ebca5e3dd37f4_etab.plt.dat
-file_type: chemical/x-mopac-input
+file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/7011abfcc38880524b44d32e07d31bc8_rinex2.txt
+file_type: text/plain
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -11,9 +11,7 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: 7db57be8-2ce7-e0cd-b529-3f5578c683b0
 resourcetype: Other
-title: etab.plt.dat
-uid: 823d0630-d8a3-2aad-008e-bca5e3dd37f4
-video_metadata:
-  youtube_id: null
+title: rinex2.txt
+uid: 7011abfc-c388-8052-4b44-d32e07d31bc8
 ---
 This is a special file for Lec #8.

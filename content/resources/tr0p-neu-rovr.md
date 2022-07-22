@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: 'This is a special file for Lec #22.'
-file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/fb17f61e7d2e3ba5555bfb1162fe1364_TR02.sum
-file_type: application/octet-stream
+file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/f7c410edbea672c589d1296fb63a0d02_TR0p.NEU.rovr.txt
+file_type: text/plain
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -11,9 +11,7 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: 7db57be8-2ce7-e0cd-b529-3f5578c683b0
 resourcetype: Other
-title: TR02.sum
-uid: fb17f61e-7d2e-3ba5-555b-fb1162fe1364
-video_metadata:
-  youtube_id: null
+title: TR0p.NEU.rovr.txt
+uid: f7c410ed-bea6-72c5-89d1-296fb63a0d02
 ---
 This is a special file for Lec #22.
