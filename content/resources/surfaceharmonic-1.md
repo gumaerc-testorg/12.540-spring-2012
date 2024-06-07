@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/e74782efb6d7823992598c8cecb1d941_SurfaceHarmonic.fig
+file_size: 410575
 file_type: application/x-xfig
 learning_resource_types:
 - Lecture Notes
