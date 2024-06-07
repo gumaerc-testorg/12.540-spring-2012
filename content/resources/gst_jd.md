@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This is a special file for Lec #18.'
 file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/3e1312cf311b463fb1e654f2fc910558_gst_jd.f
+file_size: 1398
 file_type: text/x-fortran
 learning_resource_types:
 - Lecture Notes
