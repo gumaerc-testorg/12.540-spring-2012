@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file for assignments 1.
 file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/4d4cdda0bdd26b79e0b641bd99545dbb_ReadNav.m
+file_size: 5841
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
