@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a special file for Lec #12.'
-file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/85d40911dfd241ee6144009f5aa4e26b_FlickerNoise.m
+file: /ol-ocw-studio-app/courses/12-540-principles-of-the-global-positioning-system-spring-2012/85d40911dfd241ee6144009f5aa4e26b_FlickerNoise.m
 file_size: 4654
 file_type: text/x-objcsrc
 learning_resource_types:
