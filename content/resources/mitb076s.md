@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for assignment 3
-file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/68226251bf762bfc8fa3db48d9ded580_mitb076s.12o
+file: /ol-ocw-studio-app/courses/12-540-principles-of-the-global-positioning-system-spring-2012/68226251bf762bfc8fa3db48d9ded580_mitb076s.12o
 file_size: 59814
 file_type: application/octet-stream
 learning_resource_types:

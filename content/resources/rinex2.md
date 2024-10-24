@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a special file for Lec #8.'
-file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/7011abfcc38880524b44d32e07d31bc8_rinex2.txt
+file: /ol-ocw-studio-app/courses/12-540-principles-of-the-global-positioning-system-spring-2012/7011abfcc38880524b44d32e07d31bc8_rinex2.txt
 file_size: 72834
 file_type: text/plain
 learning_resource_types:
