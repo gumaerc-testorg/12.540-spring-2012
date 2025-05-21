@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a special file for Lec #8.'
-file: /ol-ocw-studio-app/courses/12-540-principles-of-the-global-positioning-system-spring-2012/823d0630d8a32aad008ebca5e3dd37f4_etab.plt.dat
+file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/823d0630d8a32aad008ebca5e3dd37f4_etab.plt.dat
 file_size: 26226
 file_type: chemical/x-mopac-input
 learning_resource_types:

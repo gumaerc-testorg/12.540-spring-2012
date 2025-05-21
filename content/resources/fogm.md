@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a special file for Lec #12.'
-file: /ol-ocw-studio-app/courses/12-540-principles-of-the-global-positioning-system-spring-2012/6a5d899928c34c940ba3c9b450cbb26c_fogm.m
+file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/6a5d899928c34c940ba3c9b450cbb26c_fogm.m
 file_size: 919
 file_type: text/x-objcsrc
 learning_resource_types:
