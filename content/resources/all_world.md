@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/8fdac9229c4844259c4834dc2c293dd6_all_world.png
+file: /ol-ocw-studio-app/courses/12-540-principles-of-the-global-positioning-system-spring-2012/8fdac9229c4844259c4834dc2c293dd6_all_world.png
 file_size: 102344
 file_type: image/png
 image_metadata:
